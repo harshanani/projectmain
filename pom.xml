@@ -31,7 +31,7 @@
    <distributionManagement>
         <snapshotRepository>
             <id>harsha_snap</id>
-            <url>http://35.184.60.117:8081/nexus/content/repositories/RaviSnapRepo/</url>
+            <url>http://35.184.9.5:8081/nexus/content/repositories/harsha_snap/</url>
         </snapshotRepository>
         <repository>
             <id>harsha_release</id>
