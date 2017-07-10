@@ -25,17 +25,17 @@
  <repositories>
         <repository>
           <id>harsha_group</id>
-          <url>http://35.184.9.5:8081/nexus/content/groups/harsha_group/</url>
+          <url>http://104.155.180.193:8081/nexus/content/groups/harsha_group/</url>
         </repository>
    </repositories>
    <distributionManagement>
         <snapshotRepository>
             <id>harsha_snap</id>
-            <url>http://35.184.9.5:8081/nexus/content/repositories/harsha_snap/</url>
+            <url>http://104.155.180.193:8081/nexus/content/repositories/harsha_snap/</url>
         </snapshotRepository>
         <repository>
             <id>harsha_release</id>
-            <url>http://35.184.9.5:8081/nexus/content/repositories/harsha_release/</url>
+            <url>http://104.155.180.193:8081/nexus/content/repositories/harsha_release/</url>
         </repository>
     </distributionManagement>
 </project>
